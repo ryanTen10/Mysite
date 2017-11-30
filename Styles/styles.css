@@ -1,0 +1,28 @@
+﻿
+h1    {color: rgb(15, 15, 15);
+    font-size: 25px;
+    }
+
+p    {color: rgb(22, 22, 184);
+font-size: 20px;
+}
+
+
+.header-shadow{
+    background-color:rgb(3, 3, 3);
+    height:30px;
+}
+
+
+html body {
+    background-color: rgb(186, 191, 204);
+}
+
+.container .jumbotron > h1{
+    position:absolute;
+    color:#000;
+    left:330px;
+    top:110px;
+    font-size:30px;
+  }
+
